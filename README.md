@@ -13,25 +13,9 @@
 
 ## 🧬 about me
 
-```javascript
-const dasha = {
-  role: "Frontend Developer",
-  focus: ["React", "Next.js", "TypeScript", "UI/UX"],
-  based: "Prague, Czech Republic",
-  passionateAbout: [
-    "building clean and responsive interfaces",
-    "creating thoughtful user experiences",
-    "writing maintainable code",
-  ],
-  currentlyLearning: [
-    "React/Next.js architecture",
-    "Testing",
-    "Frontend best practices",
-  ],
-  languages: ["Ukrainian", "Russian", "English", "Czech"],
-  goal: "Keep growing as a developer and build products people love",
-};
-```
+<p align="center">
+  <img src="./assets/about.svg" width="100%" alt="About Daria: Frontend Developer and UI/UX designer in Prague. Focus: React, Next.js, TypeScript. Languages: Ukrainian, Russian, English, Czech." />
+</p>
 
 I'm a frontend developer who enjoys turning ideas into functional, accessible, and visually appealing websites.
 
@@ -39,10 +23,9 @@ I love working with modern frontend technologies, exploring UI design, and findi
 
 ## 🌱 currently
 
-- Deepening my React/Next.js and TypeScript skills
-- Building and refining my portfolio
-- Exploring modern UI patterns and frontend architecture
-- Looking for opportunities to grow as a frontend developer
+<p align="center">
+  <img src="./assets/currently.svg" width="100%" alt="Currently: improving React/Next.js and TypeScript skills, building my portfolio, exploring modern UI patterns, looking for opportunities to grow as a frontend developer." />
+</p>
 
 ## 🚀 featured projects
 
@@ -132,7 +115,7 @@ I love working with modern frontend technologies, exploring UI design, and findi
 ## 🧰 tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git,github,vscode,figma&perline=10&theme=dark" alt="Frontend tech stack" />
+  <img src="./assets/stack.svg" width="100%" alt="Tech stack: HTML5, CSS3, SCSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, GSAP, FastAPI, Node.js, PostgreSQL, Figma, Git, GitHub, VS Code, Vercel." />
 </p>
 
 ## 📊 GitHub stats
