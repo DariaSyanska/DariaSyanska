@@ -53,7 +53,7 @@ I love working with modern frontend technologies, exploring UI design, and findi
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🌙 <a href="https://dariasyanska.github.io/lune-shop/">Lune Fashion Store</a></h3>
+      <h3>🌙 <a href="https://lune-shop.vercel.app/">Lune Fashion Store</a></h3>
       <sub><b>E-commerce · Frontend UI/UX</b></sub>
       <p>A modern fashion storefront concept focused on elegant design and interactive shopping experiences.</p>
       <ul>
